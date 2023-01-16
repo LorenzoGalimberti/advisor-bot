@@ -3,4 +3,4 @@ bot that advise on a private Telegram group whether a currency pair of Forex mar
 
 
 # installation-setup
-in order to install **TA-Lib** library 
+in order to install **TA-Lib** library check out the
